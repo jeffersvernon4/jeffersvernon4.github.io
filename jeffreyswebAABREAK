@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>Jeffrey's Web Page</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.0/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+    <style>
+        /* Set height of the grid so .sidenav can be 100% (adjust if needed) */
+        
+        .row.content {
+            height: 1500px
+        }
+        /* Set gray background color and 100% height */
+        
+        .sidenav {
+            background-color: #fc3f3f;
+            height: 100%;
+            
+        }
+        /* Set black background color, white text and some padding */
+        
+        footer {
+            background-color: #000000;
+            color: white;
+            padding: 15px;
+        }
+        /* On small screens, set height to 'auto' for sidenav and grid */
+        
+        @media screen and (max-width: 767px) {
+            .sidenav {
+                height: auto;
+                padding: 15px;
+            }
+            .row.content {
+                height: auto;
+            }
+        }
+    </style>
+</head>
+
+<body>
+    
+    
+    <div class="container-fluid">
+        <div class="row content">
+            <div class="col-sm-3 sidenav">
+                <h2>Jeffrey Vernon</h2>
+                <ul class="nav nav-pills nav-stacked">
+                    <li class="active"><a href="index.html">Home</a>
+                    
+                    
+                   
+                    <li><a href="pages/education.html">Resume</a></li>
+                   
+                    
+                    
+                    
+                    
+                </ul>
+                <br>
+                
+            </div>
+
+            <div class="col-sm-9">
+               
+                <hr>
+                <h4>ABOUT ME</h4 >
+               
+                <br>
+                <p>I have been a musician for the majority of my life. I was raised homeschooled in a rural Georgia, and have two older siblings. My sister is a scientist, my brother an engineer, and myself a professional musician. One year for christmas, I asked my parents for an electric guitar for my birthday. So when I turned 6, I got my first guitar. I’m not sure when I had decided that I wanted to pursue music, I believe it was just subconsciously placed in my head through the records my dad used to play in the car when we were going anywhere.  I now play guitar, drums, piano, and I sing. I play in multiple bands, write songs, and work in a recording studio. 
+                    <br>
+                    <br>
+
+As far as my education goes, I was homeschooled, then attended a public high school, then attended the University of North Georgia. I studied Spanish, English, Math and Business classes, before I was able to transfer to UGA. At UGA I study music business and Computer Science and Accounting. I am very excited to continue my education at UGA and learn about computing, business and music. 
+<br>
+   <br>                 
+I've worked in restaurants most of my life as well. My first job was in a pizza shop when I was 16. Then I scooped ice cream, and continued serving in different restaurants through highschool and college. I eventually landed a job as a chef in a local produce store and restaurant, where I worked full time during the summers and part time during the semesters to pay for college. I am very proud of myself for putting myself through school, and now I have a love for cooking as well.</p>
+                <br>
+                <br>
+                
+
+                
+                <hr>
+                
+               
+                <p> 
+                    <br>
+                      <table border=2 cellpadding="20" cellspacing="6"
+                             
+<tr> 
+<th>Education</th><th>Year</th><th>Band names</th><th>Achievements</th>
+<tr>
+<td>Morgan County High School </td><td>2013</td><td>Over Yonder</td><td>Started 2 bands booked shows and composed music</td>
+</tr>
+<tr>
+<td>University of North Georgia</td><td>2014</td><td>The Sweet Heart Beets</td><td>Continued performing in 2 bands and recorded an album</td>
+</tr>
+</table2>
+<tr>
+<td>University of North Georgia</td><td>2015</td><td>Funkasaurus Wrex</td><td>Continued recording, joined 2 other bands and performed at the Georgia Theatre</td>
+</tr>
+</table3>
+<tr>
+<td>University of Georgia</td><td>2014</td><td>Gerkey, Property of Bolton</td><td>Formed 2 new bands performing Drums and Guitar and Vocals, continued working in Studio and composing and performing</td>
+</tr>
+</table>
+    
+    <br>
+    <br>
+                
+                
+                    <div style="text-align: center;"><IMG SRC="images/jeffyellin.jpeg" ALT="picture of me"></div>
+                </p>
+                <hr>
+
+                
+                <br>
+                <br>
+
+                <p><span </p>
+                <br>
+
+                <div class="row">
+                    <div class="col-sm-2 text-center">
+                        
+                    </div>
+                    <div class="col-sm-10">
+                        
+                        <br>
+                        <div class="row">
+                            <div class="col-sm-2 text-center">
+                                
+                            </div>
+                            <div class="col-xs-10">
+                                
+                                <br>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+
+</body>
+
+</html>
